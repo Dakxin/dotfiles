@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = danielramiro91@hotmail.com
+	name = Daniel Ramiro Lanz
